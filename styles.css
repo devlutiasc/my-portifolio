@@ -20,7 +20,7 @@ body{
 .back-vid{
   position: absolute;
   left: 0;
-  top: 10rem;
+  top: 0;
   z-index: -1;
 }
 
