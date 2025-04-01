@@ -48,7 +48,7 @@ body{
   background-color:#4ad0ee1b;
   backdrop-filter: blur(10px);
   border-radius: 50px;
-  margin-top:10%;
+  padding-top:10%;
   box-shadow: 5px 5px 20px 1px #4acfee;
 }
 
